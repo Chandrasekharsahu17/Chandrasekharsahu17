@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandrasekharsahu17
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python,Ml,NLP
+- 👀 I’m interested in Business Analyst
+- 🌱 I’m currently learning Python,SQL,Power BI, SDLC
 - 📫 How to reach me sahuchandrasekhar4@gmail.com
 
 
